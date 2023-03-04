@@ -1,7 +1,3 @@
 en el dia de hoy los temas tratados fueron 
 git es un sistema de control de versiones
-<<<<<<< HEAD
-ramas
-=======
 otro cambio por que el otro no lo guarde aqui :c
->>>>>>> rama1
